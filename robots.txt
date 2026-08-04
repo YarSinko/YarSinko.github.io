@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yarsinko.github.io/sitemap.xml
+Sitemap: https://ysynko.de/sitemap.xml
